@@ -1,6 +1,6 @@
 <h1 align="center">Simple Winrar Crack in Rust</h1>
 
-<img src="https://github.com/keowu/testesreadme/blob/main/pic/rustacean_oh.png?raw=true" width="6912" height="400">
+<img src="https://github.com/keowu/winrar/blob/main/pic/rustacean_oh.png?raw=true" width="6912" height="400">
 
 <h2>What does it do ?</h2>
 
@@ -14,11 +14,11 @@
 
 <p>Before modification:</p>
 
-<img src="https://github.com/keowu/testesreadme/blob/main/pic/2.PNG?raw=true">
+<img src="https://github.com/keowu/winrar/blob/main/pic/2.PNG?raw=true">
 
 <p>After modified:</p>
 
-<img src="https://github.com/keowu/testesreadme/blob/main/pic/3.PNG?raw=true">
+<img src="https://github.com/keowu/winrar/blob/main/pic/3.PNG?raw=true">
 
 <h2>How to use ?</h2>
 
