@@ -1,0 +1,13 @@
+[package]
+name = "winrar_crack_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+winapi = { version = "0.3.9", features=["minwindef", "windef", "winnt", "libloaderapi", "consoleapi", "memoryapi" ]}
+num-traits = "0.2.15"
+num-derive = "0.3.3"
+iced-x86 = "1.17.0"
+
+[lib]
+crate-type = ["cdylib"]
